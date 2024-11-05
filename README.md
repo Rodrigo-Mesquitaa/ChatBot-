@@ -12,7 +12,6 @@ armazenando dados relevantes de forma contínua.
 # Estrutura do projeto 
 
 chatbot_project/
-- │
 - ├── .env                        # Arquivo de variáveis de ambiente
 - ├── Dockerfile                  # Dockerfile para a imagem Docker
 - ├── README.md                   # Documentação do projeto
