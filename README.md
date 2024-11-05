@@ -1,7 +1,8 @@
-configurar e executar o projeto.
+## Considerações 
+Este projeto foi desenvolvido para servir como uma base sólida para um chatbot interativo com aprendizado contínuo.
+A modularidade e as configurações fornecidas facilitam a manutenção, e a integração com Docker permite que o sistema 
+seja facilmente escalável e implantado em diversos ambientes.
 
-markdown
-Copiar código
 # Chatbot Interativo com Aprendizado Contínuo
 
 ## Descrição
